@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Fudan CS, and will be a Ph.D. student in CUHK at 2021 Fall.
 - 🌱 I’m currently learning Go and also NLP knowledge...
 - 📫 Contact me at xrnie@outlook.com if you have any problem.
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SimonNie98&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonNie98&theme=highcontrast&layout=compact)
