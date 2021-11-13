@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying as a Ph.D. student at CUHK.
-- 🌱 I’m currently learning Go and also NLP knowledge...
+- 🌱 My major research interests involve storage and memory architectures. 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SimonNie98&theme=react&show_icons=true&count_private=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonNie98&theme=react&layout=compact&count_private=true)
